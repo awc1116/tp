@@ -38,9 +38,9 @@
     },
     {
       "src": "DeveloperGuide.md",
-      "title": "Developer Guide",
       "headings": {
         "teamscape-developer-guide": "TeamScape Developer Guide",
+        "table-of-contents": "Table of Contents",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
@@ -62,8 +62,18 @@
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
+        "adding-a-person": "Adding a person",
+        "adding-a-task-to-a-member": "Adding a task to a member",
+        "editing-a-person": "Editing a person",
+        "setting-due-date-for-a-task": "Setting due date for a task",
+        "listing-tasks-assigned-to-a-member": "Listing tasks assigned to a member",
+        "deleting-a-task-under-a-member": "Deleting a task under a member",
+        "updating-status-for-a-task": "Updating status for a task",
+        "finding-persons": "Finding persons",
+        "generating-task-status-report": "Generating Task Status Report",
         "deleting-a-person": "Deleting a person",
-        "saving-data": "Saving data"
+        "appendix-effort": "Appendix: Effort",
+        "appendix-planned-enhancements": "Appendix: Planned Enhancements"
       },
       "headingKeywords": {}
     },
@@ -106,9 +116,9 @@
     },
     {
       "src": "UserGuide.md",
-      "title": "User Guide",
       "headings": {
-        "ab-3-user-guide": "AB-3 User Guide",
+        "teamscape-user-guide": "TeamScape User Guide",
+        "table-of-contents": "Table of Contents",
         "quick-start": "Quick start",
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
@@ -118,6 +128,7 @@
         "editing-a-person-edit": "Editing a person : edit",
         "setting-due-date-for-a-task-setduedate": "Setting due date for a task : setduedate",
         "listing-tasks-assigned-to-a-member-listtasks": "Listing tasks assigned to a member : listtasks",
+        "deleting-a-task-under-a-member-deltask": "Deleting a task under a member : deltask",
         "updating-status-for-a-task-mark": "Updating status for a task : mark",
         "locating-persons-by-name-tags-or-tasks-find": "Locating persons by name, tags, or tasks: find",
         "generate-task-status-report-report": "Generate Task Status Report : report",
